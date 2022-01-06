@@ -7,7 +7,7 @@
 - 👯 I’m looking Web Developer Job.
 - 💬 I’m from Munger, Bihar India.
 - 📫 My Email ID is (anurag.kmr3214@gmail.com) contact no (+91 7024345264).
-- ⚡ Take a look of my portfolio and resume for more information here (https://anuragk-portfolio.netlify.app/)</div>
+- ⚡ Take a look of my portfolio and resume for more information here (https://anurag-portfolio-anurag-k01.vercel.app/)</div>
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
